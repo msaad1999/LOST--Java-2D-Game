@@ -18,4 +18,8 @@ There is no HP system as  of yet, so the player dies on contact with the enemy o
 
 ## HOW TO PLAY
 
-you need to have netbeans IDE installed on your system and your resolution must me 1366x768. i have yet to make an installable executable of the game and make the resolution dynamic so it could be played on any resolution. once previous requirements are met, download the entier code in a folder, open netbeans and choose the open project option, and then open the entire folder as a netbeans project. once the project is opened, click the green arrow on the top to run the game.
+you need to have netbeans IDE installed on your system and your resolution must me 1366x768. i have yet to make an installable executable of the game and make the resolution dynamic so it could be played on any resolution. 
+
+![corrupt image](https://github.com/msaad1999/LOST/blob/master/assets/speedrun.gif)
+
+Once previous requirements are met, download the entier code in a folder, open netbeans and choose the open project option, and then open the entire folder as a netbeans project. once the project is opened, click the green arrow on the top to run the game.
