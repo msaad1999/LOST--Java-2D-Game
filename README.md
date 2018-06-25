@@ -1,6 +1,10 @@
-# LOST
 
-## A java powered 2D Game
+<p align="center">
+  <img src="https://github.com/msaad1999/LOST/blob/master/data/LOST%20logo.png" width="300" aligh="center"/>
+</p>
+
+# A java powered 2D Game
+#### msaad1999
 ![corrupt image](https://github.com/msaad1999/LOST/blob/master/assets/jump.gif)
 
 
